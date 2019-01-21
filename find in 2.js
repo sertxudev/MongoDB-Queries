@@ -1,0 +1,1 @@
+db.restaurants.find({"borough": /^(Staten Island|Queens|Bronx|Brooklyn)$/})

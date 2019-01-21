@@ -1,0 +1,1 @@
+db.restaurants.find({'borough': 'Bronx'}).limit(1)

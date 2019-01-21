@@ -1,0 +1,9 @@
+[{"nombre":"Action","descripcion":"Littefair","id_categoria":{"$oid":"5bb01776fc13ae763c000000"}},
+{"nombre":"Documentary","descripcion":"Blodgetts","id_categoria":{"$oid":"5bb01776fc13ae763c000001"}},
+{"nombre":"Drama","descripcion":"Boscher","id_categoria":{"$oid":"5bb01776fc13ae763c000002"}},
+{"nombre":"Film-Noir","descripcion":"McFadin","id_categoria":{"$oid":"5bb01776fc13ae763c000003"}},
+{"nombre":"Drama|War","descripcion":"Redhead","id_categoria":{"$oid":"5bb01776fc13ae763c000004"}},
+{"nombre":"Drama|Horror","descripcion":"Cheyne","id_categoria":{"$oid":"5bb01776fc13ae763c000005"}},
+{"nombre":"Comedy|Musical|Romance","descripcion":"Westcarr","id_categoria":{"$oid":"5bb01776fc13ae763c000007"}},
+{"nombre":"Comedy|Documentary","descripcion":"Ratley","id_categoria":{"$oid":"5bb01776fc13ae763c000008"}},
+{"nombre":"Comedy","descripcion":"Easdon","id_categoria":{"$oid":"5bb01776fc13ae763c000009"}}]

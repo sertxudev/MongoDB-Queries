@@ -1,0 +1,1 @@
+db.restaurants.find({$and: [{"grades.1.grade": "A"}, {"grades.1.score": 9}, {"grades.1.date": ISODate("2014-08-11T00:00:00:00Z")}]})

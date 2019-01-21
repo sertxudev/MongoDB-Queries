@@ -1,0 +1,1 @@
+db.restaurants.find({"name": /Reg/}, {"_id": 0,"restaurant_id": 1, "borough": 1, "cuisine": 1, "name": 1})

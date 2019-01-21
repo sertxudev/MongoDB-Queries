@@ -1,0 +1,1 @@
+db.restaurants.find({"cuisine": { $not: /American/ }, "grades": {$elemMatch: {"score": {$gt: 70}} }, "address.coord.0": { $lt: -65.754168 } })

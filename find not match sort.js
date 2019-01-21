@@ -1,0 +1,1 @@
+db.restaurants.find({"cuisine": { $not: /American/ }, "grades": {$elemMatch: {"grade": /A/ }}, "borough": { $not: /Brooklyn/ } }).sort({"cuisine": 1})

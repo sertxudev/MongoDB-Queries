@@ -1,0 +1,1 @@
+db.restaurants.find({$or: [{"grades.grade": "A"}, {"grades.score": 11}, {"grades.date": ISODate("2014-08-11T00:00:00:00Z")}]})

@@ -1,0 +1,9 @@
+{"_id":{"$oid":"5bb64cf95b202465f01e2505"},"nombre":"Documentary","descripcion":"Blodgetts","id_categoria":{"$oid":"5bb01776fc13ae763c000001"}}
+{"_id":{"$oid":"5bb64cf95b202465f01e2506"},"nombre":"Drama","descripcion":"Boscher","id_categoria":{"$oid":"5bb01776fc13ae763c000002"}}
+{"_id":{"$oid":"5bb64cf95b202465f01e2507"},"nombre":"Film-Noir","descripcion":"McFadin","id_categoria":{"$oid":"5bb01776fc13ae763c000003"}}
+{"_id":{"$oid":"5bb64cf95b202465f01e2508"},"nombre":"Drama|War","descripcion":"Redhead","id_categoria":{"$oid":"5bb64cf95b202465f01e2506"}}
+{"_id":{"$oid":"5bb64cf95b202465f01e2509"},"nombre":"Action","descripcion":"Littefair","id_categoria":{"$oid":"5bb01776fc13ae763c000000"}}
+{"_id":{"$oid":"5bb64cf95b202465f01e250a"},"nombre":"Drama|Horror","descripcion":"Cheyne","id_categoria":{"$oid":"5bb64cf95b202465f01e2506"}}
+{"_id":{"$oid":"5bb64cf95b202465f01e250b"},"nombre":"Comedy|Documentary","descripcion":"Ratley","id_categoria":{"$oid":"5bb64cf95b202465f01e250c"}}
+{"_id":{"$oid":"5bb64cf95b202465f01e250c"},"nombre":"Comedy","descripcion":"Easdon","id_categoria":{"$oid":"5bb01776fc13ae763c000009"}}
+{"_id":{"$oid":"5bb64cf95b202465f01e250d"},"nombre":"Comedy|Musical|Romance","descripcion":"Westcarr","id_categoria":{"$oid":"5bb64cf95b202465f01e250c"}}

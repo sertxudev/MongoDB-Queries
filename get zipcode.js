@@ -1,0 +1,1 @@
+db.restaurants.find({}, {'_id':false, 'name':1, 'borough':1, 'cuisine':1, 'address.zipcode':1})
